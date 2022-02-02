@@ -8,7 +8,7 @@
  
  * 🎒 Student at - Raritan Valley Community College
  
- * 💼 Entreprenuer
+ * 💼 Entrepreneur
  
  * 🎨 i make custom designs on fabrics
  
@@ -23,7 +23,7 @@
 
 🛠 **SKILLS**
 
-💻 HTML, Visual Studio Code, Business Anaylst
+💻 HTML, Visual Studio Code, Business Analyst
 
 🖼 Photograpy, Fabric Designer
 
