@@ -14,7 +14,7 @@
  
  * 📷 i am a photographer
  
- * 🧠 i am currently learning JavaScript
+ * 🧠 i am currently learning learning more tech Languages
  
  * 💕 i am looking to collaborate on setting up a brand
  
