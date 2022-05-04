@@ -14,16 +14,16 @@
  
  * 📷 i am a photographer
  
- * 🧠 i am currently learning learning more tech Languages
+ * 🧠 i am currently learning more tech Languages
  
  * 💕 i am looking to collaborate on setting up a brand
  
- * 📞 Contact me @DK
+ * 📞 Contact me @ stubborngorilla7@gmail.com
  
 
 🛠 **SKILLS**
 
-💻 HTML, Visual Studio Code, Business Analyst
+💻 HTML, CSS, JAVA,
 
 🖼 Photograpy, Fabric Designer
 
